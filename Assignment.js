@@ -1,5 +1,4 @@
-//1st Program for Calculate Kilometer To Meter
-
+//1st   Program For Calculate kilometer To Meter
 function kilometerToMeter(kilometer)
 {
     if (kilometer>= 1)
@@ -19,8 +18,8 @@ console.log(result);
 
 
 
+//2nd program for budgetCalculator
 
-//2nd Program For budgetCalculator
 
 function budgetCalculator(watch,phone,laptop)
 
@@ -46,8 +45,8 @@ console.log(totalCost);
 
 
 
+//3rd Program for hotelCost
 
-//3rd   Program For hotelCost
 function hotelCost(days)
 {
     var Bill = 0;
@@ -87,7 +86,9 @@ console.log(totalBill);
 
 
 
-//Last Program For megaFreind 
+
+//last Program for megaFriend
+
 
 function megaFriend(name)
 {
